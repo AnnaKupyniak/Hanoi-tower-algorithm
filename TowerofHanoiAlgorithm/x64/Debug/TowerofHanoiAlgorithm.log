@@ -1,0 +1,8 @@
+﻿  HanoiTower.cpp
+C:\Users\annak\algo\TowerofHanoiAlgorithm\TowerofHanoiAlgorithm\HanoiTower.cpp(30,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\annak\algo\TowerofHanoiAlgorithm\TowerofHanoiAlgorithm\HanoiTower.cpp(37,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\annak\algo\TowerofHanoiAlgorithm\TowerofHanoiAlgorithm\HanoiTower.cpp(44,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\annak\algo\TowerofHanoiAlgorithm\TowerofHanoiAlgorithm\HanoiTower.cpp(87,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TowerofHanoiAlgorithm.vcxproj -> C:\Users\annak\algo\TowerofHanoiAlgorithm\x64\Debug\TowerofHanoiAlgorithm.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
